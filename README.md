@@ -16,10 +16,6 @@ The **Student Management System** is a Java-based console application that helps
 ## Technologies Used
 - Java
 - File I/O (Serialization)
-- Object-Oriented Programming (Encapsulation, Abstraction, Polymorphism)
-
----
-
 ## How to Run
 1. **Clone the Repository**:
    ```bash
