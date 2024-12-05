@@ -21,3 +21,6 @@ The **Student Management System** is a Java-based console application that helps
    ```bash
    git clone https://github.com/your-username/Student-Management-System.git
    cd Student-Management-System
+   javac src/*.java
+   java src.MainApp
+
